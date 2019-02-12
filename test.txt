@@ -1,0 +1,4 @@
+address=Carla Marksa 9, type=Low-rise house, floors=5, porches=4
+address=Nezavisimosti 58, type=Low-rise house, floors=5, porches=8
+address=Carla Marksa 9, type=Low-rise house, floors=5, porches=4
+address=Nezavisimosti 58, type=Low-rise house, floors=5, porches=8
